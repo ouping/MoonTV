@@ -84,6 +84,9 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "色猫资源": {
+      "api": "https://api.maozyapi.com/inc/api.php",
+      "name": "色猫资源"
   }
 }
